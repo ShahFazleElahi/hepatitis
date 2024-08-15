@@ -1,0 +1,31 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'AdorshoLipi', Arial, sans-serif !important;
+}
+
+section{
+    padding: 20px;
+}
+h1{
+    font-size: 20px;
+}
+h2{
+    font-size: 15px;
+}
+p{
+    font-size: 20px;
+}
+img{
+    width: 40%;
+} 
+strong{
+    color: red;
+}
+div{
+    display: flex;
+    gap: 20px;
+}
+.ads{
+    width: 200px;
+}
